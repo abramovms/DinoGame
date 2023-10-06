@@ -1,4 +1,15 @@
 # DinoGame
-<h1>Классический Dino из хрома </h1>
-<p>Исходники /TEST/*.cpp и /TEST/*.h </p>
-<p>Исполняемый файл /Debug/TEST.exe </p>
+
+![show](Image/present.gif)
+
+## Управление
+- Cтрелочки(up down) для прыжков и приседаний а также пробел для перезапуска
+
+
+## Установка и запуск
+
+```sh
+git clone https://github.com/abramovms/DinoGame.git
+cd DinoGame
+bash run.sh
+```
